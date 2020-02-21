@@ -2,7 +2,7 @@
 
 * [Code for Philly - Partnership Guide](README.md)
 
-## Creating a new partnership
+## Creating new partnerships
 
-* [Defining the partnership](creating-a-new-partnership/defining-the-partnership.md)
+* [Defining the partnership](creating-new-partnerships/defining-the-partnership.md)
 
