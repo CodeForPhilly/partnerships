@@ -23,7 +23,7 @@ For example,
 * Prevention Point wanted to shift their case management away from spreadsheets, in order to improve reporting for grants.
 * PAWS animal shelter needed to integrate data across a number of their systems, in order to speak holistically to volunteers, donors, and adoptees \(e.g. accidentally ask someone who already donates to make a donation, when emailing all volunteers\).
 
-Key strategies for recruiting volunteers include presenting at a Code for Philly hacknight, clearing listing roles needed on your project page, and updating your project page. Don't hesitate to reach out to leadership on the Code for Philly slack if you need help!
+Key strategies for recruiting volunteers include presenting at a Code for Philly hacknight, clearly listing roles needed on your project page, and updating your project page. Don't hesitate to reach out to leadership on the Code for Philly slack if you need help!
 
 ### How do I build momentum? 
 
