@@ -4,8 +4,6 @@
 
 Philadelphia Lawyers for Social Equity \(PLSE\) is a non-profit legal aid organization that focuses on helping people overcome the barriers they face as a result of criminal records.
 
-
-
 ![Kat Zuk from PLSE leading a brainstorming session, during CfP&apos;s September, 2019 Launchpad Event](https://lh4.googleusercontent.com/B5AoxSuz7y0IM8EzMYRtepIb6asuJRMwBYw8vA0bYQq8hfyga5IPkrtvkKb0CZrnWicntVsZpPsrxugkr3KxbCa1X9Ot3jqWyfmh8yQmoTrlejEJxx_o9JimgzTDNE0uY6P9SY0c)
 
 ### **How did we get in contact?**
