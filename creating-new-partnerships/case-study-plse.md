@@ -31,5 +31,5 @@ With these restrictions in mind, the PLSE expungement project turned its aim to 
 
 ### **What were challenges the project organizers faced?**
 
-\(**TODO finish this case study. If you are interested in completing these docs, or telling the story of Code for Philly projects, join the Code for Philly partnership project\)**
+\(**TODO finish this case study. If you are interested in completing these docs, or telling the story of Code for Philly projects, join the Code for Philly**[ **partnership project**](https://codeforphilly.org/projects/code_for_philly_-_creating_new_projects_and_partnerships) **and / or our** [**leadership team**](https://codeforphilly.org/pages/leadership-support_team_open_positions)**!\)**
 
