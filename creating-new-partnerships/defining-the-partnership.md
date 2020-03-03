@@ -8,5 +8,5 @@ The first step of defining a partnership is deciding what kind of opportunity it
 2. **Active Project** - what people often associate with Code for Philly. This is when volunteers support a project run by a partner. Depending on the project's needs, it could rally many volunteers, or only a single volunteer.
 3. **Sponsorship** - sponsors enable Code for Philly to facilitate volunteer work. This occurs through hosting weekly space for presentations, or providing financial sponsorship for larger events.
 
-**\[TODO: call to action\]**
+**\[TODO: highlight next steps\]**
 
