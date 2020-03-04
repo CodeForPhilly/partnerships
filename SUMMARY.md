@@ -6,7 +6,7 @@
 
 * [Defining the partnership](creating-new-partnerships/defining-the-partnership.md)
 * [First steps](creating-new-partnerships/first-steps.md)
-* [Case study: RELATIONSHIP](creating-new-partnerships/case-study-relationship.md)
+* [Case study: RLadies relationship](creating-new-partnerships/case-study-relationship.md)
 * [Case study: PLSE project](creating-new-partnerships/case-study-plse.md)
 * [Case study: SPACE](creating-new-partnerships/case-study-space.md)
 * [Frequently asked questions](creating-new-partnerships/frequently-asked-questions.md)
