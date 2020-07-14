@@ -28,7 +28,7 @@ These are guidelines, and not rules. Code for Philly leadership is happy discuss
 
 #### **Intake questionnaire**
 
-Create a copy of the project intake questionnaire \(shown below\), and fill it out.
+Create a copy of the [project intake questionnaire](https://docs.google.com/document/d/14_ca80-Ph9_WNyD99uXd2JuVZkCxEPqxEbtKjqo_mig/edit?usp=sharing) \(shown below\), and fill it out.
 
 ![](../.gitbook/assets/cfp-projects-intake-1-tiny.gif)
 
