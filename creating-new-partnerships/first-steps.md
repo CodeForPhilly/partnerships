@@ -2,7 +2,7 @@
 
 \*\*\*\*[**📣**](https://emojipedia.org/megaphone/)**: We have an** [**open projects co-lead role**](https://codeforphilly.org/pages/leadership-support_team_open_positions/#projects-lead) **on the Code for Philly leadership team.**
 
-Before starting a project, make sure that you have a Code for Philly account and have joined our \#partnerships slack channel.
+Before starting a project, make sure that you have a Code for Philly account and have joined our [\#partnerships slack channel](http://codeforphilly.org/chat?partnerships) \(shown in screencast below\).
 
 {% embed url="https://v.usetapes.com/3ymYkl7IME" %}
 
