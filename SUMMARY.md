@@ -1,15 +1,21 @@
 # Table of contents
 
 * [Code for Philly - Partnership Guide](README.md)
+* [Defining the partnership](defining-the-partnership.md)
 
-## Creating new partnerships
+## Creating a project <a id="creating-new-partnerships"></a>
 
-* [Defining the partnership](creating-new-partnerships/defining-the-partnership.md)
-* [First steps](creating-new-partnerships/first-steps.md)
-* [Case study: RLadies relationship](creating-new-partnerships/case-study-relationship.md)
+* [Project creation walkthrough](creating-new-partnerships/first-steps.md)
 * [Case study: PLSE project](creating-new-partnerships/case-study-plse.md)
-* [Case study: SPACE](creating-new-partnerships/case-study-space.md)
 * [Frequently asked questions](creating-new-partnerships/frequently-asked-questions.md)
+
+## Building a relationship
+
+* [Case study: RLadies relationship](building-a-relationship/case-study-relationship.md)
+
+## Building a sponsorship
+
+* [Case study: SPACE](building-a-sponsorship/case-study-space.md)
 
 ## Maintaining Partnerships
 
