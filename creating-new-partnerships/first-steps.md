@@ -8,10 +8,10 @@ Before starting a project, make sure that you have a Code for Philly account and
 
 There are four steps to creating a project.
 
-* [ ] **Check** - read our [project guidelines](https://codeforphilly.org/pages/project_guidelines) to ensure it meets our criteria.
-* [ ] **Setup** - fill out the intake questionnaire, then create a [project page](https://codeforphilly.org/projects) and slack channel.
-* [ ] **Plan** - list a small roadmap on your project page.
-* [ ] **Rally** - schedule a hacknight for presenting.
+* [ ] \*\*\*\*[**Check**](https://code-for-philly.gitbook.io/partnerships/creating-new-partnerships/first-steps#check) ****- read our [project guidelines](https://codeforphilly.org/pages/project_guidelines) to ensure it meets our criteria.
+* [ ] \*\*\*\*[**Setup**](https://code-for-philly.gitbook.io/partnerships/creating-new-partnerships/first-steps#setup) ****- fill out the intake questionnaire, then create a project page and slack channel.
+* [ ] \*\*\*\*[**Plan**](https://code-for-philly.gitbook.io/partnerships/creating-new-partnerships/first-steps#plan) - list a small roadmap on your project page.
+* [ ] \*\*\*\*[**Rally**](https://code-for-philly.gitbook.io/partnerships/creating-new-partnerships/first-steps#rally) - schedule a hacknight for presenting.
 
 ### Check
 
