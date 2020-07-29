@@ -8,5 +8,5 @@ Code for Philly uses an [Open Collective](https://opencollective.com/code-for-ph
 
 ### Become a Sponsor
 
-Code for Philly has maintained financial partnerships with Comcast, AT&T, Linode, and CompassRed in the past.  Sponsors can donate specifically for an event or generally to support overall Code for Philly costs. Questions?  Contact us at hello@codeforphilly.org!
+Code for Philly has maintained [financial partnerships](https://codeforphilly.org/pages/sponsors) with Comcast, AT&T, Linode, and CompassRed in the past.  Sponsors can donate specifically for an event or generally to support overall Code for Philly costs. Questions?  Contact us at hello@codeforphilly.org!
 
