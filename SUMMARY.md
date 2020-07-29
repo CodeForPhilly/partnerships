@@ -1,7 +1,10 @@
 # Table of contents
 
 * [Code for Philly - Partnership Guide](README.md)
-* [Defining the partnership](defining-the-partnership.md)
+* [Defining the partnership](defining-the-partnership/README.md)
+  * [Financial Partners](defining-the-partnership/financial-partners.md)
+  * [Project Partners](defining-the-partnership/project-partners.md)
+  * [Resource Partners](defining-the-partnership/resource-partners.md)
 
 ## Creating a project <a id="creating-new-partnerships"></a>
 
